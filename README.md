@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/akanksha9688/Leet-Code/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akanksha9688/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
+| [1063-best-sightseeing-pair](https://github.com/akanksha9688/Leet-Code/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akanksha9688/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/akanksha9688/Leet-Code/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Stack
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/akanksha9688/Leet-Code/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/akanksha9688/Leet-Code/tree/master/1063-best-sightseeing-pair) |
 ## Backtracking
 |  |
 | ------- |

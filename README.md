@@ -96,5 +96,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/akanksha9688/Leet-Code/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/akanksha9688/Leet-Code/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/akanksha9688/Leet-Code/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->

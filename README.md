@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/akanksha9688/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/akanksha9688/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/akanksha9688/Leet-Code/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/akanksha9688/Leet-Code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akanksha9688/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/akanksha9688/Leet-Code/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akanksha9688/Leet-Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akanksha9688/Leet-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/akanksha9688/Leet-Code/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/akanksha9688/Leet-Code/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## String Matching
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/akanksha9688/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akanksha9688/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/akanksha9688/Leet-Code/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->

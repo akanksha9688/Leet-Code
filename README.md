@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/akanksha9688/Leet-Code/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/akanksha9688/Leet-Code/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/akanksha9688/Leet-Code/tree/master/1063-best-sightseeing-pair) |
+| [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akanksha9688/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/akanksha9688/Leet-Code/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akanksha9688/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akanksha9688/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/akanksha9688/Leet-Code/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/akanksha9688/Leet-Code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/akanksha9688/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akanksha9688/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akanksha9688/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/akanksha9688/Leet-Code/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/akanksha9688/Leet-Code/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/akanksha9688/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akanksha9688/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/akanksha9688/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akanksha9688/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/akanksha9688/Leet-Code/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/akanksha9688/Leet-Code/tree/master/2145-grid-game) |
@@ -198,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akanksha9688/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/akanksha9688/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/akanksha9688/Leet-Code/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/akanksha9688/Leet-Code/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akanksha9688/Leet-Code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/akanksha9688/Leet-Code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akanksha9688/Leet-Code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akanksha9688/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/akanksha9688/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akanksha9688/Leet-Code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akanksha9688/Leet-Code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/akanksha9688/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akanksha9688/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/akanksha9688/Leet-Code/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akanksha9688/Leet-Code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/akanksha9688/Leet-Code/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Graph
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akanksha9688/Leet-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/akanksha9688/Leet-Code/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/akanksha9688/Leet-Code/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akanksha9688/Leet-Code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akanksha9688/Leet-Code/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akanksha9688/Leet-Code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akanksha9688/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |

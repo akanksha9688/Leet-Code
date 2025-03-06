@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/akanksha9688/Leet-Code/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/akanksha9688/Leet-Code/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akanksha9688/Leet-Code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/akanksha9688/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akanksha9688/Leet-Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/akanksha9688/Leet-Code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/akanksha9688/Leet-Code/tree/master/3429-special-array-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akanksha9688/Leet-Code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akanksha9688/Leet-Code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akanksha9688/Leet-Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/akanksha9688/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akanksha9688/Leet-Code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akanksha9688/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/akanksha9688/Leet-Code/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akanksha9688/Leet-Code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/akanksha9688/Leet-Code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/akanksha9688/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 ## Shortest Path
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akanksha9688/Leet-Code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/akanksha9688/Leet-Code/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/akanksha9688/Leet-Code/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/akanksha9688/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 ## Data Stream
 |  |
 | ------- |

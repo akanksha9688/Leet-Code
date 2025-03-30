@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/akanksha9688/Leet-Code/tree/master/0344-reverse-string) |
 | [0952-word-subsets](https://github.com/akanksha9688/Leet-Code/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akanksha9688/Leet-Code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/akanksha9688/Leet-Code/tree/master/1160-letter-tile-possibilities) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/akanksha9688/Leet-Code/tree/master/0344-reverse-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akanksha9688/Leet-Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/akanksha9688/Leet-Code/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akanksha9688/Leet-Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |

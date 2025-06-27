@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akanksha9688/Leet-Code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/akanksha9688/Leet-Code/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/akanksha9688/Leet-Code/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/akanksha9688/Leet-Code/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/akanksha9688/Leet-Code/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/akanksha9688/Leet-Code/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/akanksha9688/Leet-Code/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/akanksha9688/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/akanksha9688/Leet-Code/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/akanksha9688/Leet-Code/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akanksha9688/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akanksha9688/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/akanksha9688/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/akanksha9688/Leet-Code/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/akanksha9688/Leet-Code/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akanksha9688/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/akanksha9688/Leet-Code/tree/master/1876-map-of-highest-peak) |

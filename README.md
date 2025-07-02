@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akanksha9688/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akanksha9688/Leet-Code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-binary-tree-cameras](https://github.com/akanksha9688/Leet-Code/tree/master/1008-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akanksha9688/Leet-Code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akanksha9688/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/akanksha9688/Leet-Code/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/akanksha9688/Leet-Code/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/akanksha9688/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/akanksha9688/Leet-Code/tree/master/0854-making-a-large-island) |
+| [1008-binary-tree-cameras](https://github.com/akanksha9688/Leet-Code/tree/master/1008-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akanksha9688/Leet-Code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akanksha9688/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akanksha9688/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akanksha9688/Leet-Code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-binary-tree-cameras](https://github.com/akanksha9688/Leet-Code/tree/master/1008-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akanksha9688/Leet-Code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akanksha9688/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/akanksha9688/Leet-Code/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/akanksha9688/Leet-Code/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/akanksha9688/Leet-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/akanksha9688/Leet-Code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1008-binary-tree-cameras](https://github.com/akanksha9688/Leet-Code/tree/master/1008-binary-tree-cameras) |
 | [1025-minimum-cost-for-tickets](https://github.com/akanksha9688/Leet-Code/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/akanksha9688/Leet-Code/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/akanksha9688/Leet-Code/tree/master/1170-shortest-common-supersequence) |

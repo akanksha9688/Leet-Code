@@ -22,5 +22,7 @@ class Solution:
         
         if left ==2 or right ==2:
             return 1
-        return 0
+        else:
+            return 0
+        return -1
         

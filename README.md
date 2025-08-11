@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/akanksha9688/Leet-Code/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/akanksha9688/Leet-Code/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akanksha9688/Leet-Code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2529-range-product-queries-of-powers](https://github.com/akanksha9688/Leet-Code/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/akanksha9688/Leet-Code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/akanksha9688/Leet-Code/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/akanksha9688/Leet-Code/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/akanksha9688/Leet-Code/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/akanksha9688/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/akanksha9688/Leet-Code/tree/master/2465-shifting-letters-ii) |
+| [2529-range-product-queries-of-powers](https://github.com/akanksha9688/Leet-Code/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akanksha9688/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akanksha9688/Leet-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/akanksha9688/Leet-Code/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/akanksha9688/Leet-Code/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/akanksha9688/Leet-Code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/akanksha9688/Leet-Code/tree/master/2792-neighboring-bitwise-xor) |
 ## String Matching

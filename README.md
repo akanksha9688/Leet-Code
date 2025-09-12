@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akanksha9688/Leet-Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/akanksha9688/Leet-Code/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akanksha9688/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/akanksha9688/Leet-Code/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/akanksha9688/Leet-Code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/akanksha9688/Leet-Code/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/akanksha9688/Leet-Code/tree/master/3462-vowels-game-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/akanksha9688/Leet-Code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/akanksha9688/Leet-Code/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/akanksha9688/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
+| [3462-vowels-game-in-a-string](https://github.com/akanksha9688/Leet-Code/tree/master/3462-vowels-game-in-a-string) |
 ## Data Stream
 |  |
 | ------- |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/akanksha9688/Leet-Code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/akanksha9688/Leet-Code/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->

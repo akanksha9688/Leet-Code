@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/akanksha9688/Leet-Code/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/akanksha9688/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/akanksha9688/Leet-Code/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/akanksha9688/Leet-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/akanksha9688/Leet-Code/tree/master/0120-triangle) |
 | [0494-target-sum](https://github.com/akanksha9688/Leet-Code/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/akanksha9688/Leet-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/akanksha9688/Leet-Code/tree/master/0905-length-of-longest-fibonacci-subsequence) |

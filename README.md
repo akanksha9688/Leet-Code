@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/akanksha9688/Leet-Code/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/akanksha9688/Leet-Code/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/akanksha9688/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/akanksha9688/Leet-Code/tree/master/0494-target-sum) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/akanksha9688/Leet-Code/tree/master/0066-plus-one) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akanksha9688/Leet-Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/akanksha9688/Leet-Code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akanksha9688/Leet-Code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |

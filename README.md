@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/akanksha9688/Leet-Code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akanksha9688/Leet-Code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/akanksha9688/Leet-Code/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/akanksha9688/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/akanksha9688/Leet-Code/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/akanksha9688/Leet-Code/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/akanksha9688/Leet-Code/tree/master/1063-best-sightseeing-pair) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/akanksha9688/Leet-Code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akanksha9688/Leet-Code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/akanksha9688/Leet-Code/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/akanksha9688/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-letter-tile-possibilities](https://github.com/akanksha9688/Leet-Code/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/akanksha9688/Leet-Code/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akanksha9688/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |

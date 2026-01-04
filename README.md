@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/akanksha9688/Leet-Code/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/akanksha9688/Leet-Code/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/akanksha9688/Leet-Code/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/akanksha9688/Leet-Code/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akanksha9688/Leet-Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akanksha9688/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/akanksha9688/Leet-Code/tree/master/0066-plus-one) |
+| [1390-four-divisors](https://github.com/akanksha9688/Leet-Code/tree/master/1390-four-divisors) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akanksha9688/Leet-Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/akanksha9688/Leet-Code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akanksha9688/Leet-Code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |

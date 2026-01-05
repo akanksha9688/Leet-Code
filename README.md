@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/akanksha9688/Leet-Code/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akanksha9688/Leet-Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/akanksha9688/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1975-maximum-matrix-sum](https://github.com/akanksha9688/Leet-Code/tree/master/1975-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/akanksha9688/Leet-Code/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/akanksha9688/Leet-Code/tree/master/2145-grid-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/akanksha9688/Leet-Code/tree/master/2262-solving-questions-with-brainpower) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/akanksha9688/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/akanksha9688/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
+| [1975-maximum-matrix-sum](https://github.com/akanksha9688/Leet-Code/tree/master/1975-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akanksha9688/Leet-Code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akanksha9688/Leet-Code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/akanksha9688/Leet-Code/tree/master/2509-minimize-xor) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/akanksha9688/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akanksha9688/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/akanksha9688/Leet-Code/tree/master/1876-map-of-highest-peak) |
+| [1975-maximum-matrix-sum](https://github.com/akanksha9688/Leet-Code/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/akanksha9688/Leet-Code/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akanksha9688/Leet-Code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/akanksha9688/Leet-Code/tree/master/2764-maximum-number-of-fish-in-a-grid) |

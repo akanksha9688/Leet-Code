@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/akanksha9688/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-maximum-matrix-sum](https://github.com/akanksha9688/Leet-Code/tree/master/1975-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/akanksha9688/Leet-Code/tree/master/2107-find-unique-binary-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akanksha9688/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/akanksha9688/Leet-Code/tree/master/2145-grid-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/akanksha9688/Leet-Code/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akanksha9688/Leet-Code/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/akanksha9688/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/akanksha9688/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 | [1975-maximum-matrix-sum](https://github.com/akanksha9688/Leet-Code/tree/master/1975-maximum-matrix-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akanksha9688/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akanksha9688/Leet-Code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akanksha9688/Leet-Code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/akanksha9688/Leet-Code/tree/master/2509-minimize-xor) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/akanksha9688/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akanksha9688/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akanksha9688/Leet-Code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/akanksha9688/Leet-Code/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akanksha9688/Leet-Code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |

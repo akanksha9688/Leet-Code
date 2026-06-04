@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/akanksha9688/Leet-Code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/akanksha9688/Leet-Code/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/akanksha9688/Leet-Code/tree/master/2562-count-ways-to-build-good-strings) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akanksha9688/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/akanksha9688/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akanksha9688/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/akanksha9688/Leet-Code/tree/master/3462-vowels-game-in-a-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akanksha9688/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/akanksha9688/Leet-Code/tree/master/3462-vowels-game-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akanksha9688/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
